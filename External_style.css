@@ -1,0 +1,54 @@
+.external{
+	font-family: cursive;
+	text-align: center;
+	color: skyblue;
+	font-size: 0px;
+	background-color: maroon;
+}
+.h3{
+	font-family: monospace;
+	text-align: center;
+	color: red;
+	font-size: 0px;
+}
+
+h1,{
+	font-family: monospace;
+	text-align: center;
+	color: red;
+	font-size: 0px;
+	font-kerning: none;
+}
+
+*{
+	font-family:cursive ;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	font-size: 0px;
+	color: red;
+}
+
+input[type="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: blue;
+}
+input[type="password"]{
+	color: lawngreen;
+
+}
+input[type="email"]{
+	color: gold;
+
+}
+img{
+	size: 20px;
+}
+a[href]{
+	font-family: cursive;
+	color: skyblue;
+	font-size: 30px;
+	border: dotted green;
+}

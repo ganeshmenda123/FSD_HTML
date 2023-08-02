@@ -1,0 +1,52 @@
+/*.a{
+	border: 1px solid black;
+	height:300px;
+	width:700px;
+	background: gainsboro;
+}
+.b{
+	border:1px solid black;
+	height:230px;
+	width:630px;
+	margin:30px;
+	background: orange;
+}
+.c{
+	border:1px solid black;
+	height:150px;
+	width:570px;
+	margin:30px;
+	background: gainsboro;
+}
+.d{
+	border:1px solid black;
+	height:70px;
+	width:490px;
+	margin:30px;
+	background: skyblue;
+}*/
+*{
+	box-sizing: border-box;
+}
+.a{
+	height:300px;
+	width:700px;
+	background: gainsboro;
+	margin:30px;
+	border:1px solid black;
+	padding: 40px;
+}
+.b{
+	height:200px;
+	width:600px;
+	background: orange;
+	border:30px solid black;
+
+}
+.c{
+	height:100px;
+	width:500px;
+	background: whitesmoke;
+	border: 1px solid black;
+	margin: 20px;
+}

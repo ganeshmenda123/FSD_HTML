@@ -1,0 +1,36 @@
+input[type="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: blue;
+}
+input[type="password"]{
+	color: lawngreen;
+
+}
+input[type="email"]{
+	color: gold;
+
+}
+img{
+	size: 20px;
+}
+a[href]{
+	font-family: cursive;
+	color: skyblue;
+	font-size: 30px;
+}
+
+
+a:hover{
+	color: darkred;
+}
+a:visited{
+	color: pink;
+}
+a:link{
+	color: green;
+}
+a:active{
+	color: yellow;
+}

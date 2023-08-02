@@ -1,0 +1,23 @@
+.a{
+	border: 2px solid black;
+	height:300px;
+	width:700px;
+}
+.b{
+	border:2px solid black;
+	height:230px;
+	width:630px;
+	margin:30px;
+}
+.c{
+	border:2px solid black;
+	height:150px;
+	width:570px;
+	margin:30px;
+}
+.d{
+	border:2px solid black;
+	height:70px;
+	width:490px;
+	margin:30px;
+}
