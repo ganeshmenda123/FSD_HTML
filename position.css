@@ -1,0 +1,28 @@
+.a{
+	float: left;
+	height: 300px;
+	width: 150px;
+	background-color: red;
+	position: static;
+}
+.b{
+	float: left;
+	height: 300px;
+	width: 150px;
+	background-color: gainsboro;
+	position: relative;
+}
+.c{
+	float: left;
+	height: 300px;
+	width: 150px;
+	background-color: blue;
+	position: absolute;
+}
+.d{
+	float: left;
+	height: 300px;
+	width: 150px;
+	background-color: green;
+	position: fixed;
+}
